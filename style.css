@@ -1,0 +1,35 @@
+body {
+    font-family: Helvetica;
+}
+
+.header {
+    text-align: center;
+    position: relative;
+    color: black;
+    font-size: 60px;
+}
+.logo1 {
+    display: inline;
+    height: 100px;
+}
+.logo2 {
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#navbar{
+    font-size: 20px;
+}
+
+#products {
+    margin: 0px 20px;
+}
+
+.yaemiko {
+    margin: 50px 0px 0px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
